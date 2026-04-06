@@ -72,7 +72,7 @@ Hasil uji akurasi menunjukkan tingkat akurasi **100%** terhadap aplikasi pemband
 ## Demo
 
 - **Website:** [saturn-kun.github.io/hisab-falak](https://saturn-kun.github.io/hisab-falak)
-- **Instagram:** [@banghisab](https://instagram.com/banghisab)
+- **Instagram:** [@web3pedia.id](https://instagram.com/web3pedia.id)
 
 ## Referensi Utama
 
