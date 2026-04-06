@@ -36,13 +36,8 @@ Sistem chatbot berbasis AI yang mampu melakukan perhitungan hisab awal bulan Kam
 ├── system-message/
 │   ├── web_chatbot.txt           # System message untuk chatbot web
 │   └── instagram_bot.txt         # System message untuk chatbot Instagram
-│
-├── data/
-│   └── data_prariset.csv         # Data survei pra-riset (52 responden)
-│
-└── docs/
-    ├── arsitektur_sistem.html    # Diagram arsitektur sistem
-    └── alur_integrasi.html       # Diagram alur integrasi multi-platform
+
+
 ```
 
 ## Arsitektur Sistem
